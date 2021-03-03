@@ -1,0 +1,30 @@
+{
+    "sourceDevices": [
+        {
+            "config": {
+                "sourcePin": "0"
+            },
+            "type": "Nonlatching Footswitch"
+        }
+    ],
+    "targetDevices": [
+        {
+            "config": {
+                "targetPin": "0"
+            },
+            "type": "Digital Switch"
+        },
+        {
+            "config": {
+                "targetPin": "2"
+            },
+            "type": "Digital Switch"
+        },
+        {
+            "config": {
+                "targetPin": "3"
+            },
+            "type": "Digital Switch"
+        }
+    ]
+}

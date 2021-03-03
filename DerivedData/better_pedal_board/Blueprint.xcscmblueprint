@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "8DECB5852391629E0FE1610858DC6AEBBDBB02C2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "8DECB5852391629E0FE1610858DC6AEBBDBB02C2" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E16D4AB1-AE51-4E32-A16F-B368936726B4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "8DECB5852391629E0FE1610858DC6AEBBDBB02C2" : "better_pedal_board\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "better_pedal_board",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "better_pedal_board.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/better-automation\/BetterPedalBoard.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8DECB5852391629E0FE1610858DC6AEBBDBB02C2"
+    }
+  ]
+}

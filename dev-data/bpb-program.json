@@ -1,0 +1,557 @@
+{
+  "pedals": [
+    {
+      "id": "pedal-test-id",
+      "sourceDeviceCount": 1,
+      "targetDeviceCount": 3
+    }
+  ],
+  "trackers": [
+    {
+      "eventQueue": [
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 0,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 0,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 0,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 120,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 120,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 120,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 240,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 240,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 240,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 360,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 360,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 360,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 480,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 480,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 480,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 600,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 600,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 600,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 960,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 960,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 960,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 1200,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 1200,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 1200,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 1440,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 1440,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 1440,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 1680,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 1680,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 1680,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 1920,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 1920,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 1920,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 2160,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 2160,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 2160,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 2400,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 2400,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 2400,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 2520,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 2520,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 2520,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 2640,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 2640,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 2640,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 2760,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 2760,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 2760,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 2880,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 2880,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "1"
+          },
+          "delay": 2880,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 3000,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 0
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 3000,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 1
+        },
+        {
+          "actionType": "Set State",
+          "config": {
+            "targetState": "0"
+          },
+          "delay": 3000,
+          "repeatInterval": 3360,
+          "targetPedalIndex": 0,
+          "targetDeviceIndex": 2
+        }
+      ],
+      "sourcePedalIndex": 0,
+      "sourceDeviceIndex": 0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+#ifndef BPB_BRAIN_MEM_LIMITS_H
+#define BPB_BRAIN_MEM_LIMITS_H
+
+inline const int MAX_SOURCE_PEDAL_COUNT = 20;
+inline const int MAX_TARGET_PEDAL_COUNT = 20;
+inline const int MAX_DEVICE_COUNT_PER_PEDAL = 10;
+inline const int MAX_PHRASE_COUNT_PER_TRIGGER = 8;
+inline const int MAX_DESTINATION_COUNT = MAX_TARGET_PEDAL_COUNT * MAX_DEVICE_COUNT_PER_PEDAL;
+
+#endif
